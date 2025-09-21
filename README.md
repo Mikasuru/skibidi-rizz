@@ -37,6 +37,10 @@
 
 - **Cheat sheet** - Press **Ctrl + /**
 
+<p align="left">
+  <img src="media/3.png" width="500">
+</p>
+
 ## Installation
 
 ### Prerequisites
