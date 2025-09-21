@@ -86,7 +86,6 @@ cargo build --release
 ### Build with Raw Socket Support (Windows)
 
 ```bash
-set LIB=C:\npcap-sdk-1.15\Lib\x64;%LIB%
 cargo build --release --features pnet_datalink
 ```
 
