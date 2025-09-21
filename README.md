@@ -8,6 +8,17 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-green?style=for-the-badge" alt="Platform">
   <br>
   <em>A stupid ddos tool with TUI interface</em>
+  <br>
+  <em>Also a plugin that use for my RAT Project (Kurinium)</em>
+</p>
+
+<h1 align="center">My Discord Server~!</h1>
+<p align="center">
+  <img src="media/4.png" width="400">
+  <br>
+  <em>Plz join, Everyone are friendly!!!!!</em>
+  <br>
+  <a href="https://discord.gg/tF64959UXv">Join here!</a>
 </p>
 
 ## About
