@@ -1,4 +1,4 @@
-<h1 align="center">Skibidi Rizz</h1>
+<h1 align="center">Skibidi Rizz | Plz join my discord server!!11!!</h1>
 
 <p align="center">
   <img src="media/1.png" width="700">
